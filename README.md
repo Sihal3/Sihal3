@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a lot of things at once.
 - 💞️ I’m looking to collaborate on, not much, at the moment.
 - 📫 How to reach me: Email is nihalsgulati@gmail.com.
-- Check my blog at thenihoniumfiles.com!
+- Check out my blog at thenihoniumfiles.com!
 
 <!---
 Sihal3/Sihal3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
